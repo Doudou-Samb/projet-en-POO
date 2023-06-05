@@ -1,0 +1,165 @@
+body{
+    position: relative;
+    width: 1000px;
+    height: 900px;
+    background: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.chambre{
+    position: relative;
+    left: 50%;
+    width: 400px;
+    top: 13%;
+    bottom: 0%;
+    height: 80px;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+.text_chambre{
+    position: absolute;
+width: 346px;
+height: 70px;
+left: 129px;
+top:290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.batiment{
+    position: relative;
+    left: 50%;
+    width: 400px;
+    top: 20%;
+    bottom: 0%;
+    height: 80px;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+.text_batiment{
+    position: absolute;
+width: 346px;
+height: 70px;
+left: 129px;
+top: 570px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.message1{
+    position: relative;
+    width: 346px;
+    height: 70px;
+    left: 670px;
+    
+    top: 28px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.message2{
+    position: relative;
+    width: 346px;
+    height: 70px;
+    left: 670px;
+    top: 88px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.id{
+    position: relative;
+    top: 100px;
+    height: 50px;
+    border-radius: 50px;
+    width: 200px;
+    left: 400px;
+    font-size:30px;
+}
+
+.valider{
+    position: relative;
+    top: 100px;
+    height: 50px;
+    border-radius: 50px;
+    width: 150px;
+    left: 550px;
+    font-size:30px;
+    font-family: crimson;
+}
+
+.text_id{
+    position: relative;
+    width: 346px;
+    height: 70px;
+    left: 60px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #FFFFFF;
+}
+
+.mdp{
+    position: relative;
+    top: 100px;
+    height: 50px;
+    border-radius: 50px;
+    width: 200px;
+    left: 500px;
+    font-size:30px;
+}
+
+.img{
+    position: absolute;
+width: 70px;
+height: 70px;
+top: 15px;
+left: 35px;
+
+
+
+transform: rotate(-89.77deg);
+}
+
+.elipse{
+    position: absolute;
+width: 150px;
+height: 100px;
+left: 629px;
+top: 800px;
+border-radius: 50px;
+background: rgba(255, 255, 255, 0.5);
+}
+

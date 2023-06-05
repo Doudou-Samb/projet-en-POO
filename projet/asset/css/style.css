@@ -1,0 +1,139 @@
+body{
+    position: relative;
+    width: 900px;
+    height: 900px;
+    background: url(../img/back.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+     
+           
+       }
+
+.liste{
+    position: relative;
+width: 70px;
+height: 70px;
+left: 1109px;
+
+
+}
+
+.connexion{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 1250px;
+
+mix-blend-mode: darken;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.ligne_verticale{
+    box-sizing: border-box;
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 1200px;
+top: 28px;
+
+border: 3px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+transform: rotate(90deg);
+}
+.texte1{
+    position: absolute;
+width: 1077px;
+height: 184px;
+left: 168px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 96px;
+line-height: 116px;
+
+color: #FFFFFF;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.facebook{
+    position: absolute;
+width: 60px;
+height: 60px;
+top: 300px;
+left: 1250px;
+
+
+}
+.instagram{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 400px;
+    left: 1250px;
+}
+
+.whatsapp{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 500px;
+    left: 1250px;
+}
+
+.telegram{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 600px;
+    left: 1250px;
+}
+
+.linkedin{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 700px;
+    left: 1250px;
+}
+.ligne_horizontale{
+    position: relative;
+width: 315.24px;
+height: 0px;
+left: 168px;
+top: 770px;
+border: 5px solid #FFFFFF;
+transform: rotate(179.46deg);
+}
+
+.texte2{
+    position: absolute;
+width: 518px;
+height: 53px;
+left: 544px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700px;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+}

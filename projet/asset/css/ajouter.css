@@ -1,0 +1,244 @@
+body{
+    position: absolute;
+background: url(../img/pexels-adrien-olichon-3709336.jpg);
+background-repeat: no-repeat;
+    background-attachment: fixed;
+ 
+}
+
+input{
+    border-radius: 50px;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left:500px
+}
+
+.fond_gris{
+    position: absolute;
+width: 1340px;
+height: 1000px;
+top:161px;
+background: rgba(217, 217, 217, 0.4);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+backdrop-filter: blur(2px);
+background-position: center;
+}
+
+.identifiant{
+    margin-top: 50px;
+
+}
+
+.ajout_chambre{
+    position: absolute;
+width: 374px;
+height: 64px;
+left: 0px;
+top: 96px;
+
+background: rgba(255, 255, 255, 0.7);
+border-radius: 50px;
+}
+
+
+
+.user{
+    position: absolute;
+width: 61px;
+height: 64px;
+left: 0px;
+top: 96px;
+
+}
+
+.retour{
+    position: absolute;
+width: 242px;
+height: 70px;
+left: 393px;
+top: 91px;
+background: rgba(255, 255, 255, 0.7);
+border-radius: 50px;
+}
+
+.text_retour{
+    position: absolute;
+width: 130px;
+height: 44.05px;
+left: 495px;
+top: 76px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+
+.elipse{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 394px;
+top: 92px;
+background: #FFFFFF;
+border-radius: 50px;
+}
+
+.retour1{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 394px;
+top: 92px;
+border-radius: 50px;
+
+}
+
+.text_expiration{
+    position: absolute;
+width: 330px;
+height: 62px;
+left: 22px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.exp1{
+background: #D9D9D9;
+height: 60px;
+width: 100px;
+margin-top: 120px;
+margin-left: 500px;
+border-radius: 50px;
+
+
+}
+
+.exp2{
+    background: #D9D9D9;
+    height: 60px;
+    width: 100px;
+    margin-top: 120px;
+    margin-left: 20px;
+
+
+}
+
+.exp3{
+    background: #D9D9D9;
+    height: 60px;
+    width: 100px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+.text_identifiant{ 
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.text_nom{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 105px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.text_prenom{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 185px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.text_chambre{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 275px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.text_batiment{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 355px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+    
+}
+.text_ajout{
+    position: absolute;
+width: 320px;
+height: 34px;
+left: 71px;
+top: 74px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+
+.valider{
+    position: absolute;
+width: 296px;
+height: 80px;
+left: 42px;
+top: 720px;
+
+background: #FF0000;
+border-radius: 50px;
+}
+

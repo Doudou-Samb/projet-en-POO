@@ -1,0 +1,123 @@
+body{
+    position: relative;
+    width: 1000px;
+    height: 900px;
+    background: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.retour{
+    position: absolute;
+width: 242px;
+height: 70px;
+left: 0px;
+top: 15px;
+
+background: rgba(217, 217, 217, 0.6);
+border-radius: 50px;
+}
+
+.text1{
+    position: absolute;
+    width: 130px;
+    height: 44.05px;
+    left: 94px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+    
+}
+
+.elipse{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 0px;
+top: 15px;
+border-radius: 50px;
+
+background: #FFFFFF;
+}
+.img1{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 0px;
+border-radius: 50px;
+}
+
+.admin{
+    position: absolute;
+width: 466px;
+height: 100px;
+left: 500px;
+top: 312px;
+
+background: #FF0404;
+opacity: 0.5;
+border-radius: 50px;
+}
+
+.etudiant{
+    position: absolute;
+width: 466px;
+height: 100px;
+left: 500px;
+top: 504px;
+
+background: #FF0404;
+opacity: 0.5;
+border-radius: 50px;
+}
+
+.fond_noir{
+    position: relative;
+width: 1340px;
+height: 1024px;
+left: 0px;
+background: rgba(0, 0, 0, 0.3);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.etudiant2{
+    position: absolute;
+width: 344px;
+height: 44px;
+left: 670px;
+top: 497px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.admin2{
+    position: absolute;
+width: 358px;
+height: 46px;
+left: 616px;
+top: 306px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+}

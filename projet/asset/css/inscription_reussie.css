@@ -1,0 +1,63 @@
+body{
+    position: relative;
+    width: 1000px;
+    height: 900px;
+    background: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.validation{
+    position: absolute;
+width: 892px;
+height: 192px;
+left: 212px;
+top: 362px;
+background: rgba(255, 255, 255, 0.5);
+border-radius: 50px;
+}
+
+.text{
+    position: absolute;
+width: 618.98px;
+height: 82.82px;
+left: 370px;
+top: 400px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-decoration: underline;
+color: #000000;
+
+}
+
+.img{
+    position: absolute;
+width: 97px;
+height: 96px;
+left: 980px;
+top: 410px;
+}
+
+.elipse{
+    position: absolute;
+width: 174px;
+height: 128px;
+left: 570px;
+top: 704px;
+border-radius: 80px;
+background: rgba(255, 255, 255, 0.5);
+}
+
+.img2{
+    position: absolute;
+width: 92px;
+height: 90px;
+left: 610px;
+top: 720px;
+transform: rotate(-89.77deg);
+border-radius: 50px;
+}

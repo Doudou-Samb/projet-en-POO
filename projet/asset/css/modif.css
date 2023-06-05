@@ -1,0 +1,270 @@
+body{
+    position: absolute;
+background: url(../img/pexels-adrien-olichon-3709336.jpg);
+background-repeat: no-repeat;
+    background-attachment: fixed;
+ 
+}
+
+
+
+.fond_gris{
+    position: absolute;
+width: 1340px;
+height: 1000px;
+top:161px;
+background: rgba(217, 217, 217, 0.4);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+backdrop-filter: blur(2px);
+background-position: center;
+}
+
+.identifiant{
+        border-radius: 50px;
+        font-size: 35px;
+        margin-top: 50px;
+        margin-left:500px
+    }
+
+
+.modif_chambre{
+    position: absolute;
+width: 374px;
+height: 64px;
+left: 0px;
+top: 96px;
+
+background: rgba(255, 255, 255, 0.7);
+border-radius: 50px;
+}
+
+
+
+.user{
+    position: absolute;
+width: 61px;
+height: 64px;
+left: 0px;
+top: 96px;
+
+}
+
+.retour{
+    position: absolute;
+width: 242px;
+height: 70px;
+left: 393px;
+top: 91px;
+background: rgba(255, 255, 255, 0.7);
+border-radius: 50px;
+}
+
+.text_retour{
+    position: absolute;
+width: 130px;
+height: 44.05px;
+left: 495px;
+top: 76px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+
+.elipse{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 394px;
+top: 92px;
+background: #FFFFFF;
+border-radius: 50px;
+}
+
+.retour1{
+    position: absolute;
+width: 78px;
+height: 70.08px;
+left: 394px;
+top: 92px;
+border-radius: 50px;
+
+}
+
+.text_expiration{
+    position: absolute;
+width: 330px;
+height: 62px;
+left: 22px;
+top: 480px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.text_identifiant{ 
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+
+.text_chambre{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 170px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.text_batiment{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 22px;
+    top: 270px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+
+    
+}
+.text_modif{
+    position: absolute;
+width: 320px;
+height: 34px;
+left: 63px;
+top: 74px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+}
+
+.valider{
+    position: absolute;
+width: 296px;
+height: 80px;
+left: 542px;
+top: 720px;
+background: #FF0000;
+border-radius: 50px;
+font-size: 30px;
+}
+
+.numero_batiment_actuelle{
+    position: absolute;
+    border-radius: 50px;
+    font-size: 35px;
+    top: 300px;
+    left:300px
+}
+
+.numero_chambre_actuelle{
+    position: absolute;
+    border-radius: 50px;
+    font-size: 35px;
+    top: 200px;
+    left:300px
+
+}
+
+.numero_batiment_dest{
+    position:absolute;
+    border-radius: 50px;
+    font-size: 35px;
+    top: 300px;
+    left:900px
+}
+
+.numero_chambre_dest{
+    position: absolute;
+    border-radius: 50px;
+    font-size: 35px;
+    top: 200px;
+    left:900px
+}
+
+.text_actuelle{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 970px;
+    top: 105px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    text-decoration: underline;
+
+
+}
+
+.text_dest{
+    position: absolute;
+    width: 330px;
+    height: 62px;
+    left: 330px;
+    top: 105px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    text-decoration: underline;
+
+}
+
+.fleche1{
+    font-size: 80px;
+    position: absolute;
+    font-weight: bold;
+    left: 780px;
+    top: 200px;
+    color: #FFFFFF;
+
+}
+
+.fleche2{
+    font-size: 80px;
+    position: absolute;
+    font-weight: bold;
+    left: 780px;
+    top: 100px;
+    color: #FFFFFF;
+
+}
